@@ -25,7 +25,8 @@ It covers the latest features of Android Jetpack, including Jetpack Compose.
 
 5. **Kotlin Programming: The Big Nerd Ranch Guide**
 Author: Josh Skeen and David Greenhalgh
-This guide shows you how to work effectively with the Kotlin programming language through hands-on examples and clear explanations of key Kotlin concepts and foundational APIs.
+This guide shows you how to work effectively with the Kotlin programming language through hands-on examples
+and clear explanations of key Kotlin concepts and foundational APIs.
 (https://www.oreilly.com/library/view/kotlin-programming-the/9780135165188/)
 
 ...

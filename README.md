@@ -27,15 +27,26 @@ Note: Feel free to add more books and update the list.
 ## 🤝How to Contribute
 We welcome contributions to enhance and expand this repository. If you have a favorite Android development book that is not listed, or if you find outdated information, follow these steps to contribute:
 
-Fork the repository.
-Clone your fork to your local machine.
-Add or update the relevant information in the README.md file.
-Create a new branch for your changes.
-Push your changes to your fork.
-Submit a pull request to the main repository.
-Contribution Guidelines
-Make sure to provide accurate information about the book.
+- Fork the repository.
+  
+- Clone your fork to your local machine.
+  
+- Add or update the relevant information in the README.md file.
+  
+- Create a new branch for your changes.
+  
+- Push your changes to your fork.
+
+- Submit a pull request to the main repository.
+  
+- Contribution Guidelines
+  
+- Make sure to provide accurate information about the book.
+  
 Follow the existing format for consistency.
-Verify that the book is relevant to Android development.
-Provide a brief but informative description.
+
+- Verify that the book is relevant to Android development.
+  
+- Provide a brief but informative description.
+  
 We appreciate your contributions to make this repository a valuable resource for the Android development community.

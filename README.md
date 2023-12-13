@@ -13,16 +13,21 @@ This repository serves as a centralized hub for Android developers to discover, 
 # Books
 1. **Android Programming: The Big Nerd Ranch Guide**
 Author: Bill Phillips and Chris Stewart
-- (https://bignerdranch.com/books/android-programming-the-big-nerd-ranch-guide-5th-edition/)
-Description: A brief description of the book and its relevance to Android development.
-3. **Title of Book 2**
-Author: Author Name
-()
-Description: A brief description of the book and its relevance to Android development.
-5. **Title of Book 3**
-Author: Author Name
-()
-Description: A brief description of the book and its relevance to Android development.
+This book is great for beginners and provides a hands-on approach to learning Android development.
+ It covers the basics as well as more advanced topics.
+(https://bignerdranch.com/books/android-programming-the-big-nerd-ranch-guide-5th-edition/)
+
+3. **Head First Android Development**
+Author: Dawn Griffiths and David Griffiths
+(https://www.oreilly.com/library/view/head-first-android/9781492076513/)
+This hands-on book teaches you everything from designing user interfaces to building multi-screen apps that persist data in a database. 
+It covers the latest features of Android Jetpack, including Jetpack Compose.
+
+5. **Kotlin Programming: The Big Nerd Ranch Guide**
+Author: Josh Skeen and David Greenhalgh
+This guide shows you how to work effectively with the Kotlin programming language through hands-on examples and clear explanations of key Kotlin concepts and foundational APIs.
+(https://www.oreilly.com/library/view/kotlin-programming-the/9780135165188/)
+
 ...
 
 Note: Feel free to add more books and update the list.

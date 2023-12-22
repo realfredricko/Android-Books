@@ -7,22 +7,23 @@ Welcome to the Android Books repository! This repository is a curated collection
 - **Books**
 - **How to Contribute**
 - **License**
+  
 ## Introduction
 This repository serves as a centralized hub for Android developers to discover, recommend, and contribute to a list of quality books covering various aspects of Android development. Whether you're interested in UI/UX design, Kotlin programming, or architecture patterns.
 
 # Books
-1. **Android Programming: The Big Nerd Ranch Guide**
+1.**Android Programming: The Big Nerd Ranch Guide**
    
-Author: Bill Phillips and Chris Stewart. 
+**Author: Bill Phillips and Chris Stewart.** 
 
 This book is great for beginners and provides a hands-on approach to learning Android development.
 It covers the basics as well as more advanced topics.
 
 (https://bignerdranch.com/books/android-programming-the-big-nerd-ranch-guide-5th-edition/)
 
-3. **Head First Android Development**
+2.**Head First Android Development**
    
-Author: Dawn Griffiths and David Griffiths.
+**Author: Dawn Griffiths and David Griffiths.**
 
 This hands-on book teaches you everything from designing user interfaces to building multi-screen apps that persist data in a database. 
 It covers the latest features of Android Jetpack, including Jetpack Compose.
@@ -30,7 +31,7 @@ It covers the latest features of Android Jetpack, including Jetpack Compose.
 
 5. **Kotlin Programming: The Big Nerd Ranch Guide**
    
-Author: Josh Skeen and David Greenhalgh.
+**Author: Josh Skeen and David Greenhalgh.**
 
 This guide shows you how to work effectively with the Kotlin programming language through hands-on examples and clear explanations of key Kotlin concepts and foundational APIs.
 
@@ -40,8 +41,8 @@ This guide shows you how to work effectively with the Kotlin programming languag
 
 Note: Feel free to add more books and update the list.
 
-## 🤝How to Contribute
-Your contributions are we;comed to enhance and expand this repository. If you have a favorite Android development book that is not listed, or if you find outdated information, follow these steps to contribute:
+## 🤝🏾How to Contribute
+Your contributions are welcomed to enhance and expand this repository. If you have a favorite Android development book that is not listed, or if you find outdated information, follow these steps to contribute:
 
 - Fork the repository.
   
@@ -63,4 +64,4 @@ Your contributions are we;comed to enhance and expand this repository. If you ha
   
 - Provide a brief but informative description.
   
-We appreciate your contributions to make this repository a valuable resource for the Android development community.
+#Thank You 🙏🏾

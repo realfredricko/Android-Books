@@ -29,7 +29,7 @@ This hands-on book teaches you everything from designing user interfaces to buil
 It covers the latest features of Android Jetpack, including Jetpack Compose.
 (https://www.oreilly.com/library/view/head-first-android/9781492076513/)
 
-5. **Kotlin Programming: The Big Nerd Ranch Guide**
+3.**Kotlin Programming: The Big Nerd Ranch Guide**
    
 **Author: Josh Skeen and David Greenhalgh.**
 
@@ -64,4 +64,4 @@ Your contributions are welcomed to enhance and expand this repository. If you ha
   
 - Provide a brief but informative description.
   
-#Thank You 🙏🏾
+# Thank You 🙏🏾
